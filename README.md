@@ -1,6 +1,6 @@
 # Wordle: Java Edition
 
-A console-based Wordle clone written in Java.
+A console-based Wordle written in Java.
 
 This program allows the player to guess a five-letter word within five attempts, with coloured feedback indicating the accuracy of each letter.
 
