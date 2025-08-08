@@ -17,13 +17,8 @@ This program allows the player to guess a five-letter word within five attempts,
   - Quit anytime
 - **Dynamic Word Selection** – Words are loaded from `wordleWords.txt`.
 
-## Requirements
-
-- Java 8 or higher
-- Terminal/console that supports **ANSI colour codes**
-
 ## File Structure
 
-Main.java ## Main program file
-wordleWords.txt ## List of valid 5-letter words
-README.md ## Documentation
+- 'Main.java' Main program file
+- 'wordleWords.txt' List of valid 5-letter words
+- 'README.md; Documentation
