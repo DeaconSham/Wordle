@@ -19,6 +19,6 @@ This program allows the player to guess a five-letter word within five attempts,
 
 ## File Structure
 
-- "Main.java" Main program file
-- "wordleWords.txt" List of valid 5-letter words
-- "README.md" Documentation
+- `Main.java` Main program file
+- `wordleWords.txt` List of valid 5-letter words
+- `README.md` Documentation
