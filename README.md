@@ -1,6 +1,6 @@
 # Wordle Java Edition
 
-This is a console-based version of the popular word-guessing game, Wordle, built entirely in Java. The project provides a classic, engaging Wordle experience within a terminal, complete with a main menu and color-coded feedback.
+This is a console-based version of Wordle, built in Java. The project provides a classic, engaging Wordle experience within a terminal, complete with a main menu and color-coded feedback.
 
 ## Features
 
