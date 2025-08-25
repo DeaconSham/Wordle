@@ -19,19 +19,11 @@ This is a console-based version of Wordle, built in Java. The project provides a
 
 ## How to Run the Program
 
-1.  **Clone the repository (or download the files):**
-    ```sh
-    git clone https://github.com/DeaconSham/Wordle.git
-    ```
-2.  **Navigate to the project directory:**
-    ```sh
-    cd Wordle
-    ```
-3.  **Compile the Java source code:**
+1.  **Compile the Java source code:**
     ```sh
     javac Main.java
     ```
-4.  **Run the compiled program:**
+2.  **Run the compiled program:**
     ```sh
     java Main
     ```
