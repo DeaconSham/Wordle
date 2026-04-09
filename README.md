@@ -1,4 +1,4 @@
-# Wordle Java Edition
+# wordle but java
 
 This is a console-based version of Wordle, built in Java. The project provides a classic, engaging Wordle experience within a terminal, complete with a main menu and color-coded feedback.
 
